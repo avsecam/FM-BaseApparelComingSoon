@@ -4,12 +4,12 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ## Links
 
-- [GitHub](https://github.com/avsecam/FM-NFT)
-- [Live Site](https://avsecam.github.io/FM-NFT/)
+- [GitHub](https://github.com/avsecam/FM-BaseApparelComingSoon)
+- [Live Site](https://avsecam.github.io/FM-BaseApparelComingSoon/)
 
 ## Built with
 
